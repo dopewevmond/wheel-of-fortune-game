@@ -1,0 +1,13 @@
+{
+    "phrases": [
+        {"Category": "Movie", "Phrase": "The Titanic"},
+        {"Category": "Artist and Song", "Phrase": "Drake's One Dance"},
+        {"Category": "Movie", "Phrase": "Bonnie and Clyde"},
+        {"Category": "Movie", "Phrase": "The Deer Hunter"},
+        {"Category": "Movie", "Phrase": "The Lord of the Rings, The Return of the King"},
+        {"Category": "Movie", "Phrase": "Beauty and the Beast"},
+        {"Category": "Artist and Song", "Phrase": "Michael Jackson's Billie Jean"},
+        {"Category": "Artist and Song", "Phrase": "Bob Marley's No Woman No Cry"},
+        {"Category": "Artist and Song", "Phrase": "Whitney Houston I Will Always Love You"}
+    ]
+}

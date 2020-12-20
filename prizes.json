@@ -1,0 +1,19 @@
+
+
+{
+    "prizes": [
+        {"type": "cash", "value": 100, "prize": null, "text": "and wins $100"},
+        {"type": "cash", "value": 250, "prize": null, "text": "and wins $250"},
+        {"type": "cash", "value": 300, "prize": null, "text": "and wins $300"},
+        {"type": "bankrupt", "value": 0, "prize": null, "text": "and wins Nothing"},
+        {"type": "cash", "value": 500, "prize": "$100 worth of bitcoin", "text": "and wins $100 and another $100 worth of bitcoin"},
+        {"type": "loseturn", "value": 0, "prize": null, "text": "loses a turn"},
+        {"type": "cash", "value": 750, "prize": null, "text": "and wins $700"},
+        {"type": "cash", "value": 900, "prize": null, "text": "and wins $900"},
+        {"type": "loseturn", "value": 0, "prize": null, "text": "and loses a turn"},
+        {"type": "cash", "value": 1000, "prize":"Brand new phone", "text": "and wins $1000 and a brand new phone"},
+        {"type": "loseturn", "value": 0, "prize": null, "text": "and loses a turn"},
+        {"type": "bankrupt", "value": 0, "prize": null, "text": "and wins Nothing"},
+        {"type": "cash", "value": 1250, "prize": null, "text": "and wins $1250"}
+    ]
+}
